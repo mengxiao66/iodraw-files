@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-8" value="建立局部窗口 W，并查询窗口内最大代价值 \(C_\text{max}^W\)" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="237" y="610" width="233" height="70" as="geometry" />
+          <mxGeometry x="244" y="610" width="233" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
