@@ -40,6 +40,12 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-8" value="S408 得到当前周期候选全局路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="241" y="1050" width="253" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-9" target="i7gXyBMArGVXPIM9C8EB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-9" target="i7gXyBMArGVXPIM9C8EB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-9" value="S409 路径差异是否小于更新阈值？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="231" y="1162" width="274" height="144" as="geometry" />
         </mxCell>
