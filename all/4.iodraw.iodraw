@@ -44,7 +44,7 @@
           <mxGeometry x="232" y="844" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-7" value="S407 退化为重新规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="856" width="178" height="48" as="geometry" />
+          <mxGeometry x="-10" y="850" width="178" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-8" value="S408 得到当前周期候选全局路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="238.75" y="970" width="240" height="50" as="geometry" />
@@ -96,7 +96,7 @@
           <mxGeometry x="452" y="690" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-45" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;glass=0;fillColor=none;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="208.75" y="840" width="40" height="30" as="geometry" />
+          <mxGeometry x="190" y="840" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-46" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;glass=0;fillColor=none;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="208.75" y="1110" width="40" height="30" as="geometry" />
