@@ -7,7 +7,7 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-1" target="i7gXyBMArGVXPIM9C8EB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-1" value="计算偏离距离 d⊥​" style="whiteSpace=wrap;strokeWidth=3;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-1" value="1.计算偏离距离 d⊥​" style="whiteSpace=wrap;strokeWidth=3;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="237" y="380" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-2" value="S402 删除重复点或过近点" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
