@@ -15,9 +15,6 @@
             <mxPoint x="477" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-8" target="i7gXyBMArGVXPIM9C8EB-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -26,9 +23,6 @@
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-5" value="S405 连续性修正" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="696" width="178" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-6" target="i7gXyBMArGVXPIM9C8EB-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-6" target="i7gXyBMArGVXPIM9C8EB-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-8" value="S408 得到当前周期候选全局路径" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="196" y="600" width="240" height="50" as="geometry" />
+          <mxGeometry x="237" y="610" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
