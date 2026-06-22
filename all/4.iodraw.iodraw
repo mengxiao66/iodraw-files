@@ -32,7 +32,7 @@
           <mxGeometry x="232" y="690" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-5" value="S405 连续性修正" style="whiteSpace=wrap;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="696" width="178" height="48" as="geometry" />
+          <mxGeometry x="550" y="696" width="178" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-6" target="i7gXyBMArGVXPIM9C8EB-8">
           <mxGeometry relative="1" as="geometry" />
