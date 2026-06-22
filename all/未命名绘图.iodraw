@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-6" value="S406 修正是否成功？" style="rhombus;strokeWidth=3;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="232" y="810" width="250" height="60" as="geometry" />
+          <mxGeometry x="237" y="730" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-7" value="S407 退化为重新规划" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-20" y="816" width="178" height="48" as="geometry" />
