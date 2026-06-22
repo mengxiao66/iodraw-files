@@ -22,7 +22,7 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-3" value="S403 得到初始拼接路径" style="whiteSpace=wrap;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="585" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-6">
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-5">
