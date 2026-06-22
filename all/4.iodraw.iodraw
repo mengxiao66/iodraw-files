@@ -53,10 +53,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-3" target="i7gXyBMArGVXPIM9C8EB-4">
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.71;exitY=1.01;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-3" target="i7gXyBMArGVXPIM9C8EB-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="467" y="775" />
+              <mxPoint x="470" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
