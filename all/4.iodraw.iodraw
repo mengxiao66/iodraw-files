@@ -35,22 +35,22 @@
           <mxGeometry x="20" y="883" width="210" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-8" value="S408 得到当前周期候选全局路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="501" y="1377" width="253" height="66" as="geometry" />
+          <mxGeometry x="237" y="1050" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-9" value="S409 路径差异是否小于更新阈值？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="1493" width="276" height="276" as="geometry" />
+          <mxGeometry x="226" y="1166" width="276" height="276" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-10" value="S410 保持上一周期路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="1955" width="226" height="48" as="geometry" />
+          <mxGeometry x="100" y="1628" width="226" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-11" value="S411 是否分支切换且代价改善不足？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="1841" width="276" height="276" as="geometry" />
+          <mxGeometry x="376" y="1514" width="276" height="276" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-12" value="S412 保持上一周期路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="519" y="2189" width="226" height="48" as="geometry" />
+          <mxGeometry x="255" y="1862" width="226" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-13" value="S413 发布当前周期全局路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="795" y="2189" width="258" height="48" as="geometry" />
+          <mxGeometry x="531" y="1862" width="258" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-1" target="i7gXyBMArGVXPIM9C8EB-2">
           <mxGeometry relative="1" as="geometry">
@@ -70,28 +70,28 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-9" target="i7gXyBMArGVXPIM9C8EB-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="477" y="1805" />
+              <mxPoint x="213" y="1478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-24" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-9" target="i7gXyBMArGVXPIM9C8EB-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="778" y="1805" />
+              <mxPoint x="514" y="1478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-25" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-11" target="i7gXyBMArGVXPIM9C8EB-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="632" y="2153" />
+              <mxPoint x="368" y="1826" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-26" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-11" target="i7gXyBMArGVXPIM9C8EB-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="924" y="2153" />
+              <mxPoint x="660" y="1826" />
             </Array>
           </mxGeometry>
         </mxCell>
