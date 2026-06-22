@@ -13,7 +13,7 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-4" value="\(d_⊥\)​≤\(d_max​\)" style="rhombus;strokeWidth=3;whiteSpace=wrap;spacingRight=0;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-4" value="\(d_⊥\)​≤\(d_max​\\)" style="rhombus;strokeWidth=3;whiteSpace=wrap;spacingRight=0;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="232" y="490" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-5" value="S405 连续性修正" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
