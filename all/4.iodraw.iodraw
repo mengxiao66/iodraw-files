@@ -56,10 +56,10 @@
           <mxGeometry x="258" y="1330" width="220" height="194" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-12" value="S412 保持上一周期路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1430" width="226" height="48" as="geometry" />
+          <mxGeometry x="-30" y="1403" width="226" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-13" value="S413 发布当前周期全局路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="396" y="1430" width="258" height="48" as="geometry" />
+          <mxGeometry x="510" y="1403" width="258" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-1" target="i7gXyBMArGVXPIM9C8EB-2">
           <mxGeometry relative="1" as="geometry">
