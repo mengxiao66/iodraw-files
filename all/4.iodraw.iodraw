@@ -74,7 +74,7 @@
           <mxGeometry x="20" y="1305" width="178" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-13" value="S413 发布当前周期全局路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="238.5" y="1570" width="240" height="50" as="geometry" />
+          <mxGeometry x="237" y="1430" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-2" target="i7gXyBMArGVXPIM9C8EB-3">
           <mxGeometry relative="1" as="geometry">
