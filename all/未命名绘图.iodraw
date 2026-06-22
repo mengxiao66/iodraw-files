@@ -4,23 +4,18 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-1" target="i7gXyBMArGVXPIM9C8EB-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357" y="484" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-1" value="1.计算偏离距离 d⊥​" style="whiteSpace=wrap;strokeWidth=3;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="237" y="380" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-2" value="S402 删除重复点或过近点" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="237" y="484" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-3" target="i7gXyBMArGVXPIM9C8EB-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-5" target="i7gXyBMArGVXPIM9C8EB-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-3" value="S403 得到初始拼接路径" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="237" y="585" width="240" height="50" as="geometry" />
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="477" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,11 +70,6 @@
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-13" value="S413 发布当前周期全局路径" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="237" y="1260" width="240" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-2" target="i7gXyBMArGVXPIM9C8EB-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-8" target="i7gXyBMArGVXPIM9C8EB-9" edge="1">
           <mxGeometry relative="1" as="geometry">
