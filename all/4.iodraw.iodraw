@@ -52,6 +52,12 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-10" value="S410 保持上一周期路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-80" y="1210" width="226" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-11" target="i7gXyBMArGVXPIM9C8EB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-11" target="i7gXyBMArGVXPIM9C8EB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-11" value="S411 是否分支切换且代价改善不足？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="258" y="1330" width="220" height="194" as="geometry" />
         </mxCell>
