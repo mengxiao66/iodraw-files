@@ -103,6 +103,9 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-8" value="2.建立局部窗口 W，并查询窗口内最大代价值 \(C_\text{max}^W\)" style="whiteSpace=wrap;strokeWidth=3;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240.5" y="610" width="233" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="N9BJGhx0F89hRWzjPNrg-15" value="1.计算偏离距离 d​" style="whiteSpace=wrap;strokeWidth=3;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="247" y="390" width="240" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
