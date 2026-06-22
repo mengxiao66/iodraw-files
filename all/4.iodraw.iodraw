@@ -53,7 +53,7 @@
           <mxGeometry x="-80" y="1210" width="226" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-11" value="S411 是否分支切换且代价改善不足？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="531" y="1096" width="276" height="276" as="geometry" />
+          <mxGeometry x="258" y="1330" width="220" height="194" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-12" value="S412 保持上一周期路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="1430" width="226" height="48" as="geometry" />
