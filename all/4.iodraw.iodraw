@@ -10,11 +10,14 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-2" value="S402 删除重复点或过近点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247" y="624" width="242" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-3" target="i7gXyBMArGVXPIM9C8EB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-3" value="S403 得到初始拼接路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="722" width="226" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-4" value="S404 拼接处是否连续？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="800" width="214" height="214" as="geometry" />
+          <mxGeometry x="261" y="800" width="214" height="214" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-5" value="S405 连续性修正" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1182" width="178" height="48" as="geometry" />
