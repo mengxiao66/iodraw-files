@@ -47,7 +47,7 @@
           <mxGeometry x="-20" y="1210" width="226" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-11" value="S411 是否分支切换且代价改善不足？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="376" y="1514" width="276" height="276" as="geometry" />
+          <mxGeometry x="531" y="1096" width="276" height="276" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-12" value="S412 保持上一周期路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="255" y="1862" width="226" height="48" as="geometry" />
@@ -68,13 +68,6 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-8" target="i7gXyBMArGVXPIM9C8EB-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-24" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-9" target="i7gXyBMArGVXPIM9C8EB-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="514" y="1478" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-25" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-11" target="i7gXyBMArGVXPIM9C8EB-12">
