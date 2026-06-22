@@ -29,7 +29,7 @@
           <mxGeometry x="510" y="808" width="198" height="198" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-7" value="S407 退化为重新规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="1014" width="210" height="48" as="geometry" />
+          <mxGeometry x="20" y="883" width="210" height="48" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-8" value="S408 得到当前周期候选全局路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="501" y="1377" width="253" height="66" as="geometry" />
