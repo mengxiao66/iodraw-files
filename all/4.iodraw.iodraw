@@ -16,6 +16,9 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-3" target="i7gXyBMArGVXPIM9C8EB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-3" target="i7gXyBMArGVXPIM9C8EB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-3" value="S403 得到初始拼接路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="237" y="585" width="240" height="50" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
         <mxCell id="i7gXyBMArGVXPIM9C8EB-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7gXyBMArGVXPIM9C8EB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-5">
+        <mxCell id="i7gXyBMArGVXPIM9C8EB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i7gXyBMArGVXPIM9C8EB-4" target="i7gXyBMArGVXPIM9C8EB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7gXyBMArGVXPIM9C8EB-4" value="S404 拼接处是否连续？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
